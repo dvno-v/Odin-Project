@@ -1,0 +1,62 @@
+Describe what the internet is.
+Describe what packets are and how they are used to transfer data.
+Understand the differences between a web page, web server, web browser and search engine.
+Briefly explain what a client is.
+Briefly explain what a server is.
+Explain what IP addresses are.
+Explain what DNS servers are.
+
+_________________________________________________
+What is a web server?
+A computer that hosts a website on the Internet.
+
+
+What is a network?
+A network is a connection between devices (either wired or wireless). 
+
+What is the internet?
+The Internet is the backbone of the Web, the technical infrastructure that makes the Web possible. At its most basic, the Internet is a large network of computers which communicate all together.
+
+What is an IP address?
+Any computer on any network, needs an identifier, to distinguish itself from other compouters. The unique identifier that represents a computer on the network is called Internet Protocol or IP. It's an address made of a series of four numbers separated by dots, for example: 192.168.2.10.
+
+What is a router?
+A router is a computer that its only job is to route the communications between computer. Its only job is to make sure that all requests and responses arrive at the right place, when computers are talking to each other.\
+
+What is an ISP?
+An ISP is a company that manages some special routers that are all linked together and can also access other ISPs' routers
+
+What are packets and how are they used to transfer data?
+The data that is moved around the Web is not sent in one. The data is chopped into multiple smaller pieces. These smaller pieces that are sent from the Server towards the Client are called packets. 
+One of the reasons why packets are used, is because they are smaller. If a packet is corrupted, it is easier to replace, also they can be router thought different Internet Routes. 
+Also that way, the Cliernt can start putting the information together long before all of the information is present. This allows it to have a faster user experience.
+
+What is a client?
+A client is a device connected to the internet that makes requests to a server thought the internet. Usually the request is made through an application that is present on the device.  
+
+What is a server?
+A server is a computer that stores webpages, sites, applications and so on. The server returns a response to every request that the Client makes.
+
+What is a web page?
+A page is a document that can be read and sisplayed by a web browser
+
+What is a web browser?
+An application that reads the webpages that the server returns. It presents them in a readable format to the users.
+
+What is a search engine?
+A web service that helps you find other web pages, such as Google, Bing, Yahoo, or DuckDuckGo. Search engines are normally accessed through a web browser
+
+What is a DNS request?
+Usually, the websites or web applications, do not have the normal easy to read domain name. They have IP addresses which are hard to read and remember. Then the DNS servers (Domain Name Servers) were implemented in order for an IP to be matches with an easier to read name. 
+This is why, special Servers were implemented that watch the Client with the Web Server of a site, using the Web Domain they hold.
+
+Which browser are you currently using?
+Firefox
+
+In your own words, explain what happens when you run a search on google.com.
+When we search in google.com, the first thing that is happening is, our browser is sending a request to the Google.com DNS. 
+After that the original google.com IP is called. After that the request makes it to the google.com server which takes the request, 
+sees what we want to search for and then brings up a collection webpages that are meeting the requerments of our search. 
+The web server compiles the result of the search in a way that will be readable for our browser and the user and then sends a response to our web browser. 
+After the respose is send, the browser loads up the web page and view it.The page contains all of our pages that meet our search requirement.
+

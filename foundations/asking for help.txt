@@ -1,0 +1,26 @@
+Knowledge check:
+1. Name at least one thing your question should always include.
+2. Describe the “XY Problem”.
+3. Describe three attributes of a “help vampire”.
+
+1. Questions should include -
+1.1. Concice title that describes the problem in one sentace
+1.2. Small introduction to the problem
+1.3. Lists of solutions that have been tried to fix the problem, and the issues with those
+1.4. the exact code that produces the issue - smallest part that can encapsulate the whole issue e.g. a function or two or three lines if possible.
+1.5 Expected result
+1.6 Actual Result
+1.7 Provide context around the issue, usually in a paragraph 
+1.8 copy of text of errors if any.
+
+2. XY Problem
+2.1 User has X problem
+2.2 Figures that X problem may be fixed with Y solution
+2.3 Doesnt know how to do Y solution
+3.4 asks questions about Y solution 
+3.5 people are confused, because Y is a strange solution, waste of everyones time.
+
+3. help vampire
+3.1 Cant use google
+3.2 Poorly phrased questions
+3.3 Doesnt care about the question being answered, he/she cares about his solution being made by someone else
