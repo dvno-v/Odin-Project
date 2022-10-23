@@ -1,0 +1,19 @@
+Knowledge check
+
+What is an HTML Tag?
+
+The HTML tag is a way to tell the browser what content an Element contains.
+We can think of Elements as a content that is wrapped in between tags. 
+We have two types of tags - an opening and a closing tag that specify where 
+the content begins and where it ends. A tag begins with < then a keyword to 
+specify what kind of tag that is e.g. p and then a closing >.
+The closing tag consists of </ a keyword to specify which tag it is and then
+>
+There are also a third time of tags that are self closing, that do not hold
+content themselves. These are tags like <img> and <br>.
+
+What are the three parts of an HTML Element?
+
+The three parts of an HTML element are the Opening tag, the content of the
+element and Closing tag.
+
