@@ -1,0 +1,28 @@
+Knowledge check
+
+What is the purpose of the Doctype declarations? 
+
+The Doctype declaration shows the browser what tipe of document it is reading
+and which version of HTML the document is currectly using.
+
+What is the HTML element?
+
+The <html> element is the root element of all other elements.
+All other elements and content is going to be nested inside this element
+
+What is the purpose of the <head> element?
+
+The head element contains the data that is not showing on the page.
+In the head element we are providing different kinds of metadata that 
+goes with our document that we are creating. 
+Two examples of that are the <title> element that is providing a title to the
+page, that is shown on the browser's tab and the <meta> element which
+provides directly metadata for the browser e.g. <meta charset="..."> which
+provides the information to the browser which type of encoding is going be 
+used.
+
+What is the purpose of the <body> element?
+
+The body element contains all of the contnet that is going to be present
+on the webpage. This is the contant that will directly be shown on the webpage
+Things like title, paragraphs, tables and so on.
