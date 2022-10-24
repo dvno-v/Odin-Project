@@ -1,0 +1,35 @@
+Knowledge check
+
+
+How do you create a paragraph in HTML?
+
+You create a paragraph by placing text between the opening <p> tag and closing </p> tag
+
+How do you create a heading in HTML?
+
+You create a heading in HTML by placing text between the opening <h1> through <h6> tags and closing </h1> through </h6> tags
+
+How many different levels of headings are there and what is the difference between them?
+
+There are six levels of headings that are available in HTML.
+Each of these levels signifies the importance of the heading with H1 being the most important of the headings and H6 being the least important heading. They are also visually represented differently, with different font size and font weight.
+
+What element should you use to make text bold and important?
+
+We would use the <strong> element in order to make the text bold and important.
+
+What element should you use to make text italicized to add emphasis to it?
+
+We would use the <em> element in order to make the text bold and important.
+
+What relationship does an element have with any nested elements within it?
+
+This relation ship is called parent-child relation ship, where the component that holds the nested components is called the parent and the component that is nested is called the child. 
+
+What relationship do two elements have if they are at the same level of nesting?
+
+This is called a sibling relationship. When two nested components are on the same level, they are called siblings, since they are a child component of the same parent.
+
+How do you create HTML comments?
+
+We create HTML Comments with the opening <!-- combination of symbols and we close the component with the --> combination of symbols. This way we specify that the text inbetween them will not be shown on the live page.
