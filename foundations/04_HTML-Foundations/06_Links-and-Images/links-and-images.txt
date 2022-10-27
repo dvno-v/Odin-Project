@@ -1,0 +1,36 @@
+Knowledge check
+
+
+What element is used to create a link?
+
+The anchor tag is used for creating links. It is written like this <a>
+
+What is an attribute?
+
+Atributes provide additional information regarding a tag in HTML. Examples of that are the href, src, alt and so on.
+
+What attribute tells links where to go to?
+
+The href atribute or hypertext reference is used for telling the destination of an link
+
+What is the difference between an absolute and relative link?
+
+Absolute links are used for exact locations that are not present on the current site. They always consist of protocol://domain/path and are exact in their nature. 
+
+Relative links are links that use relative pathing. They do not need the protocol://domain part of the absolute links, because they assume that we are on the same site. Relative links are for example the links we use for pages on the same site
+
+Which element is used to display an image?
+
+The image element is used for displaying an image
+
+What two attributes do images always need to have?
+
+The src attribute and the alt atrribute. SRC is used for the link to the image, and the alt tag is used for the alternative text for the image.
+
+How do you access a parent directory in a filepath?
+
+Using ../ at the beggining of the link we go one directory up. 
+
+What are the four main image formats that you can use for images on the web?
+
+The four formats of images are JPG, PNG, SVG, GIF. JPGs are used for images with large colour palletes ( like photos ), Gifs are used for simple animations, PNGs are used for logos, diagrams, and SVGs are scalable vector-based images that can be used for logos, diagrams, icons and so on.
