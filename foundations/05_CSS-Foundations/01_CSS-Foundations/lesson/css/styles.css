@@ -1,0 +1,63 @@
+/* universal selectors */
+
+* {
+    color: purple;
+    background-color: black;
+}
+
+/* tag selector */
+
+div {
+    color: white;
+}
+
+/* class selector */
+
+.alert-text {
+    color: red;
+}
+
+/* id selector */
+
+#title {
+    background-color: red;
+}
+
+/* grouping selectors with a comma */
+
+.read,
+.unread {
+    color: white;
+    background-color: black;
+}
+
+.read {
+    /* several unique declarations */
+}
+
+.unread {
+    /* several unique declarations */
+}
+
+/* chaining selectors (classes example) */
+
+.subsection.header {
+    color: red;
+}
+
+/* chaining selectors (example with ID) */
+
+.subsection#preview {
+    color: blue;
+}
+
+/* color and background properties */
+
+p {
+    /* hex example: */
+    color: #1100ff;
+    /* rgb example: */
+    color: rgb(100, 0, 127);
+    /* hsl example: */
+    color: hsl(15, 82%, 56%);
+}
